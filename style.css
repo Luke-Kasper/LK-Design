@@ -27,7 +27,7 @@
   justify-content: space-between;
 }
 button{
-  color: #000000;
+  color: #FFFFFF;
   padding: 10px 25px;
   background: transparent;
   border 1px solid #fff;
@@ -36,20 +36,20 @@ button{
   cursoe: pointer; 
 }
 .content {
-  color: #000000;
+  color: #FFFFFF;
   position: absolute;
-  top 50%;
+  top: 50%;
   left: 8%;
   transform: translateY(-50%);
   z-index: 2;
   
 }
 
-.h1{
-  font size: 80px;
+h1{
+  font-size: 80px;
   margin: 10px 0 30px;
   line-height: 80px;
-  color: #000000;
+  color: #FFFFFF;
   
   
 }
