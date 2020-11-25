@@ -27,7 +27,7 @@
   justify-content: space-between;
 }
 button{
-  colour: #fbfcfd;
+  colour: #ffffff;
   padding: 10px 25px;
   background: transparent;
   border 1px solid #fff;
@@ -36,7 +36,7 @@ button{
   cursoe: pointer; 
 }
 .content {
-  colour: #fbfcfb;
+  colour: #ffffff;
   position: absolute;
   top 50%;
   left: 8%;
@@ -49,6 +49,7 @@ h1{
   font size: 80px;
   margin: 10px 0 30px;
   line-height: 80px;
+  colour: #ffffff;
   
   
 }
