@@ -53,13 +53,13 @@ h1{
   
   
 }
-.side-bar{
+/*.side-bar{
   width: 50px;
   height: 100vh;
   background: linear-gradient(#6a6a6a, #000000);
   position: absolute;
   right: 0;
-  top: 0;
+  top: 0; */
 }
 .menu{
 display: block;
