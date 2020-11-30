@@ -7,12 +7,16 @@
 header
 {
   
-  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://github.com/Luke-Kasper/LK-Design/blob/main/images/1567665.png); 
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); 
   height: 100vh;
   background-size: cover;
   background-position: center;
 
 
+}
+.background img
+{
+    background-image: url("https://raw.githubusercontent.com/Luke-Kasper/LK-Design/main/images/1567665.png");
 }
 
 .main-nav
